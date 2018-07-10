@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/whatever/CarouselPicker-master/CarouselPicker-master.iml" filepath="$PROJECT_DIR$/whatever/CarouselPicker-master/CarouselPicker-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sidebyside.iml" filepath="$PROJECT_DIR$/sidebyside.iml" />
+      <module fileurl="file://$PROJECT_DIR$/whatever/whatever.iml" filepath="$PROJECT_DIR$/whatever/whatever.iml" />
+    </modules>
+  </component>
+</project>
